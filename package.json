@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "face-api.js": "^0.22.2"
+  },
+  "scripts": {
+    "build": "parcel build mainscript.js --public-url ./",
+    "watch": "parcel watch mainscript.js --public-url ./"
+  }
+  
+}
