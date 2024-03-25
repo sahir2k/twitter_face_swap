@@ -1,4 +1,4 @@
-from the releases tab , download the zip file 
+from the [releases tab](https://github.com/sahir2k/twitter_face_swap/releases/tag/prod) , download the zip file 
 
 <img width="416" alt="image" src="https://github.com/sahir2k/twitter_face_swap/assets/117151647/38f861b7-0aa1-498a-a5ca-13806c13a80c">
 
