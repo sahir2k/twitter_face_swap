@@ -1,8 +1,6 @@
-```
- 
-git clone 
-npm i 
-
+```bash
+git clone https://github.com/sahir2k/twitter_face_swap.git
+npm i && npm run build
 ```
 
 then go to chrome://extensions click "load unpacked" and choose the folder
